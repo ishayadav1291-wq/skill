@@ -1,0 +1,8 @@
+{
+  "name": "SkillSetu - AI Career Guidance & Skill-Gap Platform",
+  "description": "AI-based career guidance, NSQF-aligned skill-gap identification, and learning-to-career pathways with vocational ladder and What-If simulations for students in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
